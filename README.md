@@ -33,12 +33,11 @@ If you'd like to explore or modify ChapterWorld locally, follow these steps:
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/yourusername/chapterworld.git
-Open the project folder:
+2. Open the project folder:
 
-bash
-
-cd chapterworld
-Open the index.html file in your browser to view the application.
+   ```bash
+   cd chapterworld
+3. Open the index.html file in your browser to view the application.
 
 Usage
 Browse through book categories, check out new arrivals, and read reviews. You can also get personalized recommendations based on your preferences.
@@ -56,12 +55,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 Contact
 For any questions or suggestions, feel free to reach out via my GitHub profile.
-
-vbnet
-
-Once you customize the repository link and license information, you can add this to your **ChapterWorld** repository. Let me know if you'd like any adjustments!
-
-
-
-
-
