@@ -39,19 +39,18 @@ If you'd like to explore or modify ChapterWorld locally, follow these steps:
    cd chapterworld
 3. Open the index.html file in your browser to view the application.
 
-Usage
+## Usage
 Browse through book categories, check out new arrivals, and read reviews. You can also get personalized recommendations based on your preferences.
 
-Contributing
+## Contributing
 Contributions are welcome! If you have suggestions or improvements, follow the steps below:
-
-Fork the repository.
-Create a new branch (git checkout -b feature-name).
-Make your changes and commit (git commit -m 'Add feature').
-Push your branch (git push origin feature-name).
-Submit a Pull Request.
-License
+   Fork the repository.
+   Create a new branch (git checkout -b feature-name).
+   Make your changes and commit (git commit -m 'Add feature').
+   Push your branch (git push origin feature-name).
+   Submit a Pull Request.
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Contact
+## Contact
 For any questions or suggestions, feel free to reach out via my GitHub profile.
